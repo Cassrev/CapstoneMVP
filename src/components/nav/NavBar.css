@@ -1,0 +1,60 @@
+
+
+.navigationWrapper {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	padding: 10px;
+	background-image: url("https://i.imgur.com/bG3TpqY.png");
+	background-position: 0px -165px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+	color: white;
+	text-transform: uppercase;
+	overflow: hidden;
+	width: 600px;
+	margin: auto;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	
+}
+
+
+.navbar {
+	display: flex;
+	list-style-type: none;
+
+}
+
+li {
+	opacity: 1;
+	list-style-type: none;
+	color: white;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+	padding: 0 10px;
+}
+
+.navbar__link{
+	position: relative;
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+	color: rgb(10, 112, 24);
+}
+
+.navbar__link:hover{
+	color: #ea4f4c;
+}
+
+.navbar__item {
+	flex-basis: 20%;
+	list-style-type: none;
+}
+
+.navbar__logout {
+	margin-left: auto;
+}

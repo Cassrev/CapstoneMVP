@@ -1,0 +1,39 @@
+.gradient-custom-2 {
+	/* fallback for old browsers */
+	background: #fbc2eb;
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 193, 238, 1));
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 193, 238, 1));
+	width: fit-content;
+}
+
+#Container{
+	display: flex;
+	background-position-y: 5;
+	height: 100%;
+}
+
+#MDRow {
+	justify-content: center;
+	align-items: center; 
+	height: 100;
+}
+
+#div1 {
+	top: rounded;
+	color: white;
+	display: flex;
+	flex: row;
+}
+
+#div2 {
+	-webkit-margin-start: 4;
+	margin-top: 5;
+	display: flex;
+	columns: flex;
+}
+
+#div3{
+	-webkit-margin-start: 3;
+}

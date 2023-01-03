@@ -1,0 +1,45 @@
+html {
+	cursor: url("https://i.imgur.com/MOROJma.png"), auto; 
+}
+
+label {
+	cursor: url("https://i.imgur.com/MOROJma.png"), auto;
+}
+
+button  {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+.navbar__link {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+#regLink {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+input {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+footer {
+	cursor: url("https://i.imgur.com/MOROJma.png"), auto;
+}
+
+img {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+
+.carousel .control-dots .dot {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+button:not(:disabled) {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}
+
+.carousel .control-arrow,
+.carousel.carousel-slider .control-arrow {
+	cursor: url("https://i.imgur.com/t4qjXDD.png"), auto;
+}

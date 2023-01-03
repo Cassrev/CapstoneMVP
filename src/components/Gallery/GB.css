@@ -1,0 +1,40 @@
+* {box-sizing: border-box;}
+
+.img-container:hover .overlay {
+opacity: 1;
+}
+
+.deleteBTN{
+
+border: none; 
+border-width: 0; 
+border: 0;
+background-color: Transparent;
+background-image: url("https://i.imgur.com/EpO9onD.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.img-card{
+border-top: 5px double #1C6EA4;
+max-width: 100%;
+}
+
+.EditBTN {
+    background-image: url("https://img.freepik.com/free-vector/dog-cat-paw-print-with-heart-pattern-design_1017-36752.jpg?w=2000");
+    background-size: cover;
+    background-position: 0px -165px;
+    font-weight: bold;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    font-variant: small-caps;
+}
+
+.popup-content{
+background-image: url("https://img.freepik.com/free-vector/dog-cat-paw-print-with-heart-pattern-design_1017-36752.jpg?w=2000");
+background-size: cover;
+}
+
+.overlay {
+    background-color: palevioletred;
+    width: fit-content;
+}

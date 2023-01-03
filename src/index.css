@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: #D0E4F5;
+	background-image: url("https://img.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg?w=2000");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-position-y: 100%;
+}
+
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

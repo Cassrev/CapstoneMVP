@@ -1,0 +1,33 @@
+#filePicker {
+	width: 1%;
+}
+
+#chooseBeanfile {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* 
+.form-background{
+	background-image: url("https://i.imgur.com/mdUZGQb.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	width: 100%;
+}
+*/
+
+.form--post{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-end;
+	align-content: start;
+	border: 35px solid;
+	border-image: url("https://i.imgur.com/mdUZGQb.png") 40 / 35px / 0px stretch;
+}
+
+#captionText{
+	block-size: 50%;
+	position: relative;
+	width: 50%;
+}
